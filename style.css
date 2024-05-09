@@ -73,20 +73,22 @@ button{
 
 @media (max-width:430px) {
     .calculator{
-        width: 330px;
+        width: 310px;
+        height: 420px;
     }
 
     input{
-        width: 300px;
+        width: 250px;
     }
     button{
-        width: 48px;
-        height: 48px;
-        margin: 9px;
-        margin-right: 22px;
+        width: 42px;
+        height: 42px;
+        margin: 5px;
+        margin-right:26px;
+        font-size: 15px;
        
     }
     #equal{
-        width: 130px;
+        width: 120px;
     }
 }
